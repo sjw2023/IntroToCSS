@@ -1,2 +1,44 @@
 /* Add your styles below this */
 
+.header {
+  background-color: purple;
+  font-color: white;
+  width: 500px;
+  margin: 5px;
+  padding: 20px;
+}
+
+.content {
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+  margin: 5px;
+  padding: 20px;
+}
+
+.footer {
+  background-color: purple;
+  font-color: white;
+  width: 500px;
+  margin: 5px;
+  padding: 20px;
+}
+
+/*answer
+
+/* .wrapper {
+	width: 70%;
+}
+
+.header,
+.footer {
+	background-color: purple;
+	color: white;
+	padding: 30px;
+}
+
+.content {
+	border: 1px solid black;
+	padding: 30px;
+	margin: 10px 0;
+} */
